@@ -4,4 +4,4 @@ setTimeout(() => {
 }, 3000);
 console.log("Test starts here for the 2nd time");
 
-console.log("Try to understand the event loop in JavaScript");
+console.lollllg("Try to understand the event loop in JavaScript");
